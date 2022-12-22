@@ -96,7 +96,7 @@ deadlock=1;
 if(deadlock)
 printf("\n Deadlock detected");
 else
-printf("\n No Deadlock possible");
+printf("\n No Deadlock possible")
 }
 
 
