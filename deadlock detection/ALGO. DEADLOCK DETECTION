@@ -10,4 +10,4 @@ Steps of Algorithm:
     Work= Work+ Allocationi 
     Finish[i]= true 
     Go to Step 2.
-    If Finish[i]== false for some i, 0<=i<n, then the system is in a deadlocked state. Moreover, if Finish[i]==false the process Pi is deadlock
+    If Finish[i]== false for some i, 0<=i<n, then the system is in a deadlocked state. Moreover, if Finish[i]==false the process Pi is 
